@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="outil1">Carte Raspberry Pi</string>
+    <string name="outil2">Carte ESP32</string>
+    <string name="outil3">Carte BeagleBone</string>
+    <string name="outil4">Carte Arduino</string>
+    <string name="outil1txt">un processeur quad-core Cortex-A72 à 1,5 GHz, jusqu à 8 Go de RAM, un stockage microSD.</string>
+    <string name="outil2txt">une connectivité Wi-Fi et Bluetooth intégrée, une grande variété de interfaces et de broches GPIO</string>
+    <string name="outil3txt">n microcontrôleur embarqué offrant un processeur ARM Cortex-A8 à 1 GHz, 512 Mo de RAM DDR3</string>
+    <string name="outil4txt">des entrées/sorties numériques et analogiques, ainsi que une interface USB pour la programmation</string>
+    <string name="cap1">DHT11</string>
+    <string name="cap2">Ultrason</string>
+    <string name="cap3">CI</string>
+    <string name="cap4">CM</string>
+    <string name="cap9">LDR</string>
+    <string name="cap10">PS</string>
+    <string name="cap5">LED</string>
+    <string name="cap6">Buzzer</string>
+    <string name="cap7">Résistance</string>
+    <string name="cap8">Transistor</string>
+    <string name="cap11">Servo Motor</string>
+    <string name="cap12">Potentiométre</string>
+    <string name="cap13">120DT</string>
+    <string name="cap14">45DT</string>
+    <string name="cap15">430DT</string>
+    <string name="cap16">42DT</string>
+    <string name="cap17">8DT</string>
+    <string name="cap18">7DT</string>
+    <string name="cap19">22DT</string>
+    <string name="cap20">6DT</string>
+    <string name="cap21">5DT</string>
+    <string name="cap22">90DT</string>
+    <string name="cap23">0.400DT</string>
+    <string name="cap24">4DT</string>
+    <string name="cap25">0.200DT</string>
+    <string name="cap26">6DT</string>
+    <string name="cap27">12DT</string>
+    <string name="cap28">3DT</string>
+
+</resources>
